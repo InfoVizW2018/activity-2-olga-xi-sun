@@ -6,9 +6,9 @@
 
 ## What
 
-###Dataset Type - TABLE
+### Dataset Type - TABLE
 
-###Data:
+### Data:
 	
 	Vessel Name - ITEM
 	Depart/Arrive Time - ATTRIBUTE
@@ -16,7 +16,7 @@
 	Routes - LINK
 	Week - ITEM on a weekly basis
 
-###Attribute type:
+### Attribute type:
 	
 	Time is quantitative ordering data, the ordirection is cyclic and sequential
 
