@@ -18,7 +18,7 @@
 
 ### Attribute type:
 	
-Time is quantitative ordering data, the ordirection is cyclic and sequential
+Time is quantitative ordering data, the ordering direction is cyclic and sequential
 
 ## Why
 
